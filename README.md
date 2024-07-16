@@ -39,7 +39,7 @@ ProjectName : 셀체커 비전 CIM , 원형 검사기 CIM (SDI China Tianjin)
 
 ---
 
-[GitHub](http://github.com)
+[GitHub](https://github.com/hanpro-max)
 ```javascript 
 function test() { 
  console.log("hello world!"); 
