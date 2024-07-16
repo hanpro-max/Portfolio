@@ -14,7 +14,7 @@ ProjectName : SDV CIM (SAMSUNG VIETNAM)
 - 주요 역할 : 고객사 프로젝트 대응 UI 디자인, 개발 서브 대응, 디버깅, QUAL대응
 - 업무 성과 : 라인 QUAL 전 라인 완료, Log 분석, 고객 대응
 
-![Github logo](/images/INSPECTION_SDV_UI.png) 
+![Github logo](/images/INSPECTION_SDV.png) 
 
 ---
 
