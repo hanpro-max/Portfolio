@@ -24,7 +24,7 @@ ProjectName : Mobile Inspection  (VIETNAM )
 - 주요 역할 : 고객사 프로젝트 대응 ,SETUP
 - 업무 성과 : 검사기 프로그램 납품.
 
-![Github logo](/images/wafermain.GIF) 
+![Github logo](/images/wafermain1.GIF) 
 
 ---
 
