@@ -33,7 +33,7 @@ ProjectName : 셀체커 비전 CIM , 원형 검사기 CIM (SDI China Tianjin)
 - 주요 역할 : 고객사 프로젝트 대응, 현지 셋업
 - 업무 성과 : 현지 셋업을 통한 납품 완료
 
-![Github logo](/images/CELLCHECKER.png) 
+![Github logo](/images/CELLCHECKER1.png) 
 
 ![Github logo](/images/CELLUI.png) 
 
