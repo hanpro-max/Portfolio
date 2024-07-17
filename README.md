@@ -46,6 +46,13 @@
 
 ---
 
+>PLC Gx Works2 Tool
+>- Message Test
+
+![Github logo](/images/gxworks2.png) 
+
+---
+
 [GitHubHanpro-max](https://github.com/hanpro-max)
 
 
