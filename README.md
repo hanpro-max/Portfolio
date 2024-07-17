@@ -1,7 +1,12 @@
 
 <!--<img  alt="Portfolio" src="https://img.shields.io/badge/HAN BYEONGKYU-E34F26?style=for-the-badge&logo=Amazon Identity Access Management&logoColor=white" width="700" height="200">-->
-<!--<img alt="Portfolio" src="https://img.shields.io/badge/portfolio-E34F26?style=for-the-badge&logo=amazon-aws&logoColor=white" width="100" height="50"> -->
-:spiral_notepad:  HAN BYEONGKYU Portfolio
+
+<!--:spiral_notepad:  HAN BYEONGKYU Portfolio-->
+
+<img alt="Portfolio" src="https://img.shields.io/badge/HAN BYEONGKYU-E34F26?style=for-the-badge&logo=LibreOfficeWriter&logoColor=white" width="300" height="70">
+
+<img alt="Portfolio" src="https://img.shields.io/badge/Emaml:creep791@naver.com-E34F26?style=for-the-badge&logo=Minutemailer&logoColor=white" width="200" height="35"> 
+
 
 >ProjectName : Vision Inspection LG Dispenser (LG VIETNAM)
 >- Period : 2019.04 ~2019.06
