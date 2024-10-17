@@ -61,6 +61,13 @@
 ![Github logo](/images/CartManu.png) 
 ---
 
+
+>ProjectName : TOPNDOWN 브랜드 운영
+>- Period : 2016.06 ~ 
+>- Part : 브랜딩, 프로모션 기획, 큐레이션 셀렉, 병행 수입 , 홈페이지 제작
+>- Performance : 브랜드 홍보 , 판매증진
+
+![Github logo](/images/TOPNDOWN_1.png) 
 ---
 
 >ProjectName : TRANSFORMERS 30TH 기념 아트웍 MD 기획
@@ -71,15 +78,7 @@
 ![Github logo](/images/TRANSFORMERS30TH.png) 
 ---
 
----
 
->ProjectName : TOPNDOWN 브랜드 운영
->- Period : 2016.06 ~ 
->- Part : 브랜딩, 프로모션 기획, 큐레이션 셀렉, 병행 수입 , 홈페이지 제작
->- Performance : 브랜드 홍보 , 판매증진
-
-![Github logo](/images/TOPNDOWN_1.png) 
----
 
 [GitHubHanpro-max](https://github.com/hanpro-max)
 
