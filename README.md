@@ -64,9 +64,9 @@
 ---
 
 >ProjectName : TRANSFORMERS 30TH 기념 아트웍 MD 기획
->- Period : 2018.11 ~ 2018.12
->- Part : 고객사 프로젝트 대응 ,SETUP
->- Performance : 라인 QUAL 완료, Log 분석, 고객 대응, 현지 납품
+>- Period : 2014.01 ~ 2014.10
+>- Part : PR 담당, 전시 부스 MD 상품 기획
+>- Performance : 상품 판매 증진, 홍보
 
 ![Github logo](/images/TRANSFORMERS30TH.png) 
 ---
@@ -74,9 +74,9 @@
 ---
 
 >ProjectName : TOPNDOWN 브랜드 운영
->- Period : 2018.11 ~ 2018.12
->- Part : 고객사 프로젝트 대응 ,SETUP
->- Performance : 라인 QUAL 완료, Log 분석, 고객 대응, 현지 납품
+>- Period : 2016.06 ~ 
+>- Part : 브랜딩, 프로모션 기획, 큐레이션 셀렉, 병행 수입 , 홈페이지 제작
+>- Performance : 브랜드 홍보 , 판매증진
 
 ![Github logo](/images/TOPNDOWN_1.png) 
 ---
