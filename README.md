@@ -38,7 +38,36 @@
 >ProjectName : 셀체커 비전 CIM , 원형 검사기 CIM (SDI China Tianjin)
 >- Period : 2018.11 ~ 2018.12
 >- Part : 고객사 프로젝트 대응 ,SETUP
->- Performance : 라인 QUAL 완료, Lo획
+>- Performance : 라인 QUAL 완료, Log 분석, 고객 대응, 현지 납품
+
+![Github logo](/images/CELLCHECKER1.png) 
+
+![Github logo](/images/CELLUI.png) 
+
+---
+
+>PLC Gx Works2 Tool
+>- Message Test
+
+![Github logo](/images/gxworks2.png) 
+
+---
+
+>ProjectName : McDonald's
+
+![Github logo](/images/MC_Main.png) 
+---
+
+![Github logo](/images/CartManu.png) 
+---
+
+
+>ProjectName : TRANSFORMERS 30TH 기념 아트웍 MD 기획
+
+![Github logo](/images/TRANSFORMERS30TH.png) 
+---
+
+
 [GitHubHanpro-max](https://github.com/hanpro-max)
 
 
